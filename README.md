@@ -4,6 +4,13 @@ Keepsake is a simple Android photo widget. Pick photos from your device, place
 the widget on your home screen, and browse them with the previous and next
 buttons. The widget can also rotate through the selected photos automatically.
 
+
+
+[![Watch the video](https://github.com/user-attachments/assets/97051c35-d08f-4964-907b-a00d2c8bc787)](https://github.com/user-attachments/assets/97051c35-d08f-4964-907b-a00d2c8bc787)
+
+<img width="300" height="657" alt="image" src="https://github.com/user-attachments/assets/44c634fb-3437-4dc6-813b-16fee0a8dcf7" />
+<img width="300" height="657" alt="image" src="https://github.com/user-attachments/assets/eb350f55-392f-49ba-ae0e-66ff7638a1f1" />
+
 ## Download
 
 [Download Keepsake 1.0 (debug APK)](download/Keepsake-v1.0-debug.apk)
